@@ -1,1 +1,7 @@
+# Python version
+python>=3.10.10
 
+# Libraries
+tensorflow==2.11.1
+keras==2.11.0
+h5py==3.7.0
