@@ -14,4 +14,4 @@ The repository is structured to help you:
 - **SoC and SoH Estimation**: Code for the estimation of the State of Charge and State of Health values.
 - **Model Building**: Step-by-step process of how we built the models to predict SoC values, using state-of-the-art deep learning techniques.
 - **Pre-trained Models**: Access to pre-trained models that can be used directly or fine-tuned on other datasets.
-- **Datasets**: Battery data used for model training and validation is available at [this link](https://seafile.unistra.fr/f/055c6cbeefae4df3b6ea/?dl=1).
+- **Datasets**: Battery data used for model training and validation for SOC estimation is available at [this link](https://seafile.unistra.fr/f/055c6cbeefae4df3b6ea/?dl=1).
